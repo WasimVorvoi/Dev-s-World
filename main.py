@@ -13,7 +13,7 @@ WINDOW_SIZE = (info_object.current_w, info_object.current_h)
 
 screen = pygame.display.set_mode(WINDOW_SIZE, FULLSCREEN)
 
-display = pygame.Surface((2048, ))
+display = pygame.Surface((2048, 1280))
 
 pygame.mouse.set_visible(False)
 
