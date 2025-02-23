@@ -1,3 +1,6 @@
+!!!! 2 of the sounds weren't uploaded because they were too big to be uploaded!!!!
+
+
 ## Controls
 * Move Right - d
 * Move Left - a
